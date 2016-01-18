@@ -1,0 +1,17 @@
+{
+    "name": "tekkie/ad-php",
+    "description": "ActiveDirectory connection demo",
+    "keywords": ["adldap", "adldap2", "ldap"],
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Georgiana Gligor",
+            "email": "gb@tekkie.ro"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "adldap2/adldap2": "^5.2"
+    }
+}
