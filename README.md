@@ -21,3 +21,11 @@ $ composer install
 # success case
 $ php demo.php
 ```
+
+```bash
+# invalid admin credentials
+$ php demo-error.php
+
+Connection issue:
+    Bind to Active Directory failed. Check the login credentials and/or server details. AD said: Invalid DN syntax%
+```
